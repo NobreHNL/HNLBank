@@ -1,0 +1,3 @@
+C:\Users\Kened\Documents\TccP\Bank\Identity\obj\Debug\netcoreapp3.1\Identity.Doman.csprojAssemblyReference.cache
+C:\Users\Kened\Documents\TccP\Bank\Identity\obj\Debug\netcoreapp3.1\Identity.Doman.AssemblyInfoInputs.cache
+C:\Users\Kened\Documents\TccP\Bank\Identity\obj\Debug\netcoreapp3.1\Identity.Doman.AssemblyInfo.cs
